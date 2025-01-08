@@ -1,0 +1,62 @@
+--- Introduction --- 
+
+Python is called as general purpose language. 
+Python is a Interpreted, High-level, Object oriented programming language. 
+It also supports procedural programming
+Python came into picture around 1989
+Reddit is today written in python
+Monty Python Flying circus the author guido van rossum is a big fan. So he named it as python
+Python 1.0 - January 1994
+Python 2.0 - October 2000
+Python 3.0 - December 2008
+
+Write
+Test
+Run
+Debug
+Deploy
+
+IDE - Integrated Development Environment
+
+
+
+--- Getting Started with Python ---
+
+Generally when we write something in python the interpreter converts it to the machine level language and return us the output. 
+
+So when you give 5/2 -> The result is 2.5 -> It’s a floating point division in python
+
+5 // 2 -> 2 - It is. Floor division or integer division. 
+
+BODMAS rule is applied
+Bracket Orders Divide Multiply Add Subtract
+
+2 **3 = 2^3 = 8 -> ** is power of here. 
+
+String is nothing but a combination of characters. 
+
+Print("navin\'s laptop") -> backlash before the special character makes the character normal. 
+
+10 * 'anil' -> it will print anil name for 10 times. 
+
+Print(r'c:\docs\string') -> It is a raw string, we are syaing to python don’t try to convert it to a special string. 
+
+'a' + 'b' -> ab -> concatenation
+
+
+
+--- Variables in Python ---
+
+Variable is a block where you have values. 
+
+_ represents the output of previous operation in python
+
+In computer numbering always starts with 0
+
+If you give - number in an array in strings then it will consider from last character from right to left it will consider and print. 
+
+Strings in python are immutable. We cannot change the value of those. 
+
+Myname = 'anil'
+Len(myname) = 4 
+LEN FUNCTION gives you the length of the string. 
